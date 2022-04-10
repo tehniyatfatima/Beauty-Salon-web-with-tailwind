@@ -1,0 +1,20 @@
+#second {
+        background-image: url("bg.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100%;
+        width: 100%;
+}
+
+#xx {
+        z-index: -1;
+        width: 100%;       
+
+}
+
+#last {
+        margin-left: 30%;
+}
+
+
+
